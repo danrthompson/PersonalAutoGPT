@@ -1,0 +1,3 @@
+[submodule "auto_gpt_main"]
+	path = auto_gpt_main
+	url = git@github.com:Significant-Gravitas/Auto-GPT.git
